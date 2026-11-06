@@ -1,0 +1,6 @@
+{
+  "name": "Great Treasure Global Hotel & Suites",
+  "description": "Luxury hotel and restaurant booking platform for Great Treasure Global Hotel & Suites. Luxury, Comfort & Great Taste – All in One Place.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
